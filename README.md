@@ -7,6 +7,7 @@
 🌐 [LinkedIn](https://linkedin.com/in/shubhpathak)
 
 📌 Projects I'm proud of:
-- NHM COVID-19 Power BI Dashboard
+-  COVID-19 Power BI Dashboard
+-  IDSP-IHIP Reporting Dashboard
 - CI/CD to AWS using GitHub Actions
 - Dockerized SQL ETL Demo
